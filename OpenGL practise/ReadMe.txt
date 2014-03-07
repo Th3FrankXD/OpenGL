@@ -1,5 +1,5 @@
 ========================================================================
-    WIN32 APPLICATION : OpenGL practise Project Overview
+    WIN42 APPLICATION : OpenGL practise Project Overview
 ========================================================================
 
 AppWizard has created this OpenGL practise application for you.
